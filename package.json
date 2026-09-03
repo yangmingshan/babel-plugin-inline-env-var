@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-inline-env-var",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "module",
   "description": "A babel plugin to inline environment variables",
   "main": "index.js",
